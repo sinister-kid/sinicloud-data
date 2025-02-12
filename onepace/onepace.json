@@ -1,0 +1,337 @@
+{
+	"name" : "One Pace",
+	"description" : "Versión con menos relleno de Uan Piss",
+	"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/covers/poster-cover.png",
+	"arcs" : [
+		{
+			"number" : "1",
+			"name" : "Romance Dawn",
+			"description" : "Monkey D. Luffy sets out on an adventure to form a crew, find the legendary One Piece, and become the pirate king.",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-1.png",
+			"manga_chapters" : "1-7",
+			"anime_episodes" : "2-3,504,Episode_of_Luffy",
+			"duration" : "1:23:301:23:30",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "2",
+			"name" : "Orange Town",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-2.png",
+			"manga_chapters" : "8-21",
+			"anime_episodes" : "4-8",
+			"duration" : "1:26:38",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "3",
+			"name" : "Syrup Village",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-3.png",
+			"manga_chapters" : "23-41",
+			"anime_episodes" : "9-18",
+			"duration" : "2:14:33",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "4",
+			"name" : "Gaimon",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-4.png",
+			"manga_chapters" : "42,22",
+			"anime_episodes" : "18",
+			"duration" : "0:20:35",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "5",
+			"name" : "Baratie",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-5.png",
+			"manga_chapters" : "42-68",
+			"anime_episodes" : "19-30",
+			"duration" : "1:00:48",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "6",
+			"name" : "Arlong Park",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-6.png",
+			"manga_chapters" : "69-95",
+			"anime_episodes" : "31-44",
+			"duration" : "4:18:05",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "7",
+			"name" : "Loguetown",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-7.png",
+			"manga_chapters" : "96-100",
+			"anime_episodes" : "45,48-49,51-53",
+			"duration" : "1:35:09",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "8",
+			"name" : "Reverse Mountain",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-8.png",
+			"manga_chapters" : "101-105",
+			"anime_episodes" : "55,61-63",
+			"duration" : "0:49:43",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "9",
+			"name" : "Whiskey Peak",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-9.png",
+			"manga_chapters" : "106-114",
+			"anime_episodes" : "64-67",
+			"duration" : "1:11:15",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "9.5",
+			"name" : "The Trials of Koby-Meppo",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-9.5.png",
+			"manga_chapters" : "83-119_cover_stories",
+			"anime_episodes" : "68-69",
+			"duration" : "15:11",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "10",
+			"name" : "Little Garden",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-10.png",
+			"manga_chapters" : "115-129",
+			"anime_episodes" : "70-77",
+			"duration" : "2:29:05",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "11",
+			"name" : "Drum Island",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-11.png",
+			"manga_chapters" : "130-154",
+			"anime_episodes" : "78-91",
+			"duration" : "1:37:01",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "12",
+			"name" : "Arabasta",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-12.png",
+			"manga_chapters" : "155-217",
+			"anime_episodes" : "92-130",
+			"duration" : "4:49:55",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "13",
+			"name" : "Jaya",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-13.png",
+			"manga_chapters" : "218-236",
+			"anime_episodes" : "144-152",
+			"duration" : "53:39",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "14",
+			"name" : "Skypiea",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-14.png",
+			"manga_chapters" : "237-303",
+			"anime_episodes" : "153-195,203,207,225",
+			"duration" : "1:52:12",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "15",
+			"name" : "Long Ring Long Land",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-15.png",
+			"manga_chapters" : "304-321",
+			"anime_episodes" : "207-228",
+			"duration" : "2:45:22",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "16",
+			"name" : "Water Seven",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-16.png",
+			"manga_chapters" : "322-374",
+			"anime_episodes" : "229-263",
+			"duration" : "6:31:23",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "17",
+			"name" : "Enies Lobby",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-17.png",
+			"manga_chapters" : "375-430",
+			"anime_episodes" : "264-312",
+			"duration" : "10:41:0",
+			"apiId" : "mRywLHQr"
+		},
+		{
+			"number" : "18",
+			"name" : "Post-Enies Lobby",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-18.png",
+			"manga_chapters" : "431-441",
+			"anime_episodes" : "313-325",
+			"duration" : "2:25:58",
+			"apiId" : "WIP"
+		},
+		{
+			"number" : "19",
+			"name" : "Thriller Bark",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-19.png",
+			"manga_chapters" : "442-489",
+			"anime_episodes" : "337-381",
+			"duration" : "8:59:20",
+			"apiId" : "16gHoWqc"
+		},
+		{
+			"number" : "20",
+			"name" : "Sabaody Arcohipelago",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-20.png",
+			"manga_chapters" : "490-513",
+			"anime_episodes" : "385-405",
+			"duration" : "5:03:14",
+			"apiId" : "AHejg5kA"
+		},
+		{
+			"number" : "21",
+			"name" : "Amazon Lily",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-21.png",
+			"manga_chapters" : "514-524",
+			"anime_episodes" : "408-421",
+			"duration" : "2:20:35",
+			"apiId" : "i3b8qdb5"
+		},
+		{
+			"number" : "22",
+			"name" : "Impel Down",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-22.png",
+			"manga_chapters" : "525-548",
+			"anime_episodes" : "422-452",
+			"duration" : "5:17:11",
+			"apiId" : "hxnfZsPw"
+		},
+		{
+			"number" : "23",
+			"name" : "Marineford",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-23.png",
+			"manga_chapters" : "549-580",
+			"anime_episodes" : "457-489",
+			"duration" : "7:18:24",
+			"apiId" : "jNXrBerQ"
+		},
+		{
+			"number" : "24",
+			"name" : "Post-War",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-24.png",
+			"manga_chapters" : "581-597",
+			"anime_episodes" : "490-516",
+			"duration" : "5:26:27",
+			"apiId" : "yHhL89hk"
+		},
+		{
+			"number" : "25",
+			"name" : "Return to Sabaody",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-25.png",
+			"manga_chapters" : "598-602",
+			"anime_episodes" : "517-522",
+			"duration" : "1:38:59",
+			"apiId" : "uXjV6Pp6"
+		},
+		{
+			"number" : "26",
+			"name" : "Fishman Island",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-26.png",
+			"manga_chapters" : "603-653",
+			"anime_episodes" : "523-574",
+			"duration" : "12:50:0",
+			"apiId" : "TjsB32wU"
+		},
+		{
+			"number" : "27",
+			"name" : "Punk Hazard",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-27.png",
+			"manga_chapters" : "654-699",
+			"anime_episodes" : "579-625",
+			"duration" : "22:06:1",
+			"apiId" : "LunJMVNy"
+		},
+		{
+			"number" : "28",
+			"name" : "Dressroza",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-28.png",
+			"manga_chapters" : "700-800",
+			"anime_episodes" : "629-746",
+			"duration" : "5:00:28",
+			"apiId" : "CZo48kqJ"
+		},
+		{
+			"number" : "29",
+			"name" : "Zou",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-29.png",
+			"manga_chapters" : "801-822",
+			"anime_episodes" : "746-747,751-776",
+			"duration" : "21:15:5",
+			"apiId" : "Us9cGESX"
+		},
+		{
+			"number" : "30",
+			"name" : "Whole Cake Island",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-30.png",
+			"manga_chapters" : "823-902",
+			"anime_episodes" : "777-877",
+			"duration" : "1:42:55",
+			"apiId" : "f5Nwx9WC"
+		},
+		{
+			"number" : "31",
+			"name" : "Reverie",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-31.png",
+			"manga_chapters" : "903-908",
+			"anime_episodes" : "878-889",
+			"duration" : "16:36:3",
+			"apiId" : "oLLoqQH6"
+		},
+		{
+			"number" : "32",
+			"name" : "Wano",
+			"description" : "",
+			"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/master/arc-32.png",
+			"manga_chapters" : "909-1060",
+			"anime_episodes" : "890-",
+			"duration" : "",
+			"apiId" : "tnZteFfr"
+		}
+	]	
+}
