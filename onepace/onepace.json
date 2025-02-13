@@ -2,6 +2,7 @@
 	"name" : "One Pace",
 	"description" : "Versión con menos relleno de Uan Piss",
 	"cover" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/main/onepace/covers/onepace-poster-1.png",
+	"coverbg" : "https://raw.githubusercontent.com/sinister-kid/sinicloud-data/refs/heads/main/onepace/covers/onepace-poster-bg.png",
 	"arcs" : [
 		{
 			"number" : "1",
